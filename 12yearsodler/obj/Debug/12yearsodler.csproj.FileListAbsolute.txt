@@ -1,0 +1,7 @@
+D:\Projects\VisualStudio\eve\12yearsodler\12yearsodler\bin\Debug\12yearsodler.exe.config
+D:\Projects\VisualStudio\12yearsodler\12yearsodler\bin\Debug\12yearsodler.exe.config
+D:\Projects\VisualStudio\12yearsodler\12yearsodler\bin\Debug\12yearsodler.exe
+D:\Projects\VisualStudio\12yearsodler\12yearsodler\bin\Debug\12yearsodler.pdb
+D:\Projects\VisualStudio\12yearsodler\12yearsodler\obj\Debug\12yearsodler.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio\12yearsodler\12yearsodler\obj\Debug\12yearsodler.exe
+D:\Projects\VisualStudio\12yearsodler\12yearsodler\obj\Debug\12yearsodler.pdb
